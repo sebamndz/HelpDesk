@@ -135,3 +135,5 @@ C:\Users\sebam\HelpDesk\HelpDesk.Api\obj\Debug\net8.0\refint\HelpDesk.Api.dll
 C:\Users\sebam\HelpDesk\HelpDesk.Api\obj\Debug\net8.0\HelpDesk.Api.pdb
 C:\Users\sebam\HelpDesk\HelpDesk.Api\obj\Debug\net8.0\HelpDesk.Api.genruntimeconfig.cache
 C:\Users\sebam\HelpDesk\HelpDesk.Api\obj\Debug\net8.0\ref\HelpDesk.Api.dll
+C:\Users\sebam\HelpDesk\HelpDesk.Api\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\sebam\HelpDesk\HelpDesk.Api\obj\Debug\net8.0\HelpDesk.Api.sourcelink.json
